@@ -4,4 +4,4 @@ EXPOSE 6100
 
 COPY /bin/Release /app/Release
 WORKDIR /app/Release
-ENTRYPOINT dotnet EndDevice.dll
+ENTRYPOINT dotnet EndDeviceService.dll
