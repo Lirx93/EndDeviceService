@@ -1,2 +1,2 @@
-# EndDevice
+# EndDeviceService
 EndDevice Proxy
